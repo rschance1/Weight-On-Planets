@@ -1,6 +1,6 @@
 # weightonplanets
 
-A new Flutter project.
+Calculator that calculates your weight on different planets
 
 ## Getting Started
 
