@@ -1,6 +1,6 @@
 # weightonplanets
 
-Mobile app that calculates your weight on different planets
+Mobile app that calculates your weight on different planets.
 
 ## Getting Started
 
